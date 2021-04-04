@@ -1,0 +1,13 @@
+C:\Users\BRUNO COELHO\source\repos\ExerPolim\ExerPolim\obj\Debug\netcoreapp3.1\ExerPolim.csprojAssemblyReference.cache
+C:\Users\BRUNO COELHO\source\repos\ExerPolim\ExerPolim\obj\Debug\netcoreapp3.1\ExerPolim.AssemblyInfoInputs.cache
+C:\Users\BRUNO COELHO\source\repos\ExerPolim\ExerPolim\obj\Debug\netcoreapp3.1\ExerPolim.AssemblyInfo.cs
+C:\Users\BRUNO COELHO\source\repos\ExerPolim\ExerPolim\obj\Debug\netcoreapp3.1\ExerPolim.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO COELHO\source\repos\ExerPolim\ExerPolim\bin\Debug\netcoreapp3.1\ExerPolim.exe
+C:\Users\BRUNO COELHO\source\repos\ExerPolim\ExerPolim\bin\Debug\netcoreapp3.1\ExerPolim.deps.json
+C:\Users\BRUNO COELHO\source\repos\ExerPolim\ExerPolim\bin\Debug\netcoreapp3.1\ExerPolim.runtimeconfig.json
+C:\Users\BRUNO COELHO\source\repos\ExerPolim\ExerPolim\bin\Debug\netcoreapp3.1\ExerPolim.runtimeconfig.dev.json
+C:\Users\BRUNO COELHO\source\repos\ExerPolim\ExerPolim\bin\Debug\netcoreapp3.1\ExerPolim.dll
+C:\Users\BRUNO COELHO\source\repos\ExerPolim\ExerPolim\bin\Debug\netcoreapp3.1\ExerPolim.pdb
+C:\Users\BRUNO COELHO\source\repos\ExerPolim\ExerPolim\obj\Debug\netcoreapp3.1\ExerPolim.dll
+C:\Users\BRUNO COELHO\source\repos\ExerPolim\ExerPolim\obj\Debug\netcoreapp3.1\ExerPolim.pdb
+C:\Users\BRUNO COELHO\source\repos\ExerPolim\ExerPolim\obj\Debug\netcoreapp3.1\ExerPolim.genruntimeconfig.cache
